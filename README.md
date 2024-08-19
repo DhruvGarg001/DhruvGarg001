@@ -1,3 +1,5 @@
+### About Me
+
 - 👋 Hi, I’m @DhruvGarg001
 - 👀 I’m interested in Artificial Intelligence and Computer Science
 - 🌱 I’m currently learning Python
@@ -9,3 +11,11 @@
 DhruvGarg001/DhruvGarg001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+### My Projects
+
+#### Games
+
+- **Sea Survival**: A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay.
