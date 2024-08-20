@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my projects section! Here, you'll find a collection of my work ranging from variety of fields, each showcasing my skills in programming and creative problem-solving. For more detailed documentation and insights into these projects, feel free to explore my [GitHub Wiki](https://github.com/DhruvGarg001/DhruvGarg001/wiki).
 
+#
+
 #### Web Apps:
 - [**Cricket Sphere**](https://cricketsphere.netlify.app/): A sleek and responsive web app providing real-time updates on live and recently completed cricket matches. Cricket Sphere fetches and displays scores, runs, wickets, and more using a cricket API. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Cricket-Sphere-v1.2).
 
