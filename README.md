@@ -26,7 +26,7 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
 #
 
 #### Websites:
-- ["Argus Unbelievable"](https://argusunbelievable.netlify.app/): Fictional data center company in the Himalayas 🌐 | Showcasing UI/UX design and HTML/CSS proficiency | Created by Dhruv Garg in 2022 | All content is fictional. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Argus-Unbelievable).
+- [**Argus Unbelievable**](https://argusunbelievable.netlify.app/): Fictional data center company in the Himalayas 🌐 | Showcasing UI/UX design and HTML/CSS proficiency | Created by Dhruv Garg in 2022 | All content is fictional. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Argus-Unbelievable).
 
 #
 
