@@ -28,7 +28,7 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
     2. Enter Your Name
     3. Use the arrow keys to move the seahorse and press space to shoot.
     4. Survive for 4 minutes to win the game!
-- [**Angry Birds - Basic Edition**](https://angrybirdsbydhruv.netlify.app/):A basic duplicate of the popular Angry Birds game, built with p5.js to showcase my game development skills. Drag and launch birds to hit targets while demonstrating simple game mechanics and physics. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Angry-Birds-v1.0).
+- [**Angry Birds - Basic Edition**](https://angrybirdsbydhruv.netlify.app/): A basic duplicate of the popular Angry Birds game, built with p5.js to showcase my game development skills. Drag and launch birds to hit targets while demonstrating simple game mechanics and physics. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Angry-Birds-v1.0).
   - **How to Play**
     1. Open The Deployed [Website](https://angrybirdsbydhruv.netlify.app/)
     2. *Controls:*
