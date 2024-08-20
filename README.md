@@ -18,17 +18,20 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my projects section! Here, you'll find a collection of my work ranging from variety of fields, each showcasing my skills in programming and creative problem-solving. For more detailed documentation and insights into these projects, feel free to explore my [GitHub Wiki](https://github.com/DhruvGarg001/DhruvGarg001/wiki).
 
+#### Web Apps:
+- [**Cricket Sphere**](https://cricketsphere.netlify.app/): A sleek and responsive web app providing real-time updates on live and recently completed cricket matches. Cricket Sphere fetches and displays scores, runs, wickets, and more using a cricket API. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Cricket-Sphere-v1.2).
+
 #
 
 #### Games:
 
-- [**Sea Survival v1.2**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
+- [**Sea Survival**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
   - **How to Play**
     1. Open The Deployed [Website](https://seasurvival.netlify.app/)
     2. Enter Your Name
     3. Use the arrow keys to move the seahorse and press space to shoot.
     4. Survive for 4 minutes to win the game!
-- [**Angry Birds - Basic Edition**](https://angrybirdsbydhruv.netlify.app/): A basic duplicate of the popular Angry Birds game, built with p5.js to showcase my game development skills. Drag and launch birds to hit targets while demonstrating simple game mechanics and physics. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Angry-Birds-v1.0).
+- [**Angry Birds**](https://angrybirdsbydhruv.netlify.app/): A basic duplicate of the popular Angry Birds game, built with p5.js to showcase my game development skills. Drag and launch birds to hit targets while demonstrating simple game mechanics and physics. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Angry-Birds-v1.0).
   - **How to Play**
     1. Open The Deployed [Website](https://angrybirdsbydhruv.netlify.app/)
     2. *Controls:*
