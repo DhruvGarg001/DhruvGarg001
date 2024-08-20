@@ -25,6 +25,11 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
 
 #
 
+#### Websites:
+- ["Argus Unbelievable"](https://argusunbelievable.netlify.app/): Fictional data center company in the Himalayas 🌐 | Showcasing UI/UX design and HTML/CSS proficiency | Created by Dhruv Garg in 2022 | All content is fictional. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Argus-Unbelievable).
+
+#
+
 #### Games:
 
 - [**Sea Survival**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
