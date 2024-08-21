@@ -32,12 +32,12 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
 
 #### Games:
 
-- [**Sea Survival**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
+- [**T-Rex Game**](https://trexbydhruv.netlify.app/): T-Rex Game | A replica of the classic Google Chrome offline dinosaur game, built with p5.js 🦖 | Dodge obstacles and see how far you can go! | Created by Dhruv Garg. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/T%E2%80%90Rex-Game).
   - **How to Play**
-    1. Open The Deployed [Website](https://seasurvival.netlify.app/)
-    2. Enter Your Name
-    3. Use the arrow keys to move the seahorse and press space to shoot.
-    4. Survive for 4 minutes to win the game!
+    1. Open The Deployed [Website](https://trexbydhruv.netlify.app/)
+    2. **Objective**: Dodge as many obstacles as possible to achieve a high score.
+    3. **Jump**: Press the **Space Bar** to make the T-Rex jump over obstacles.
+  
 - [**Angry Birds**](https://angrybirdsbydhruv.netlify.app/): A basic duplicate of the popular Angry Birds game, built with p5.js to showcase my game development skills. Drag and launch birds to hit targets while demonstrating simple game mechanics and physics. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Angry-Birds-v1.0).
   - **How to Play**
     1. Open The Deployed [Website](https://angrybirdsbydhruv.netlify.app/)
@@ -45,6 +45,13 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
           - **Mouse Drag:** Click and drag the bird on the sling to set your aim and release quickly to launch.
           - **Space Bar:** Press to reload a new bird onto the sling.
     3. Enjoy Playing!
+       
+- [**Sea Survival**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
+  - **How to Play**
+    1. Open The Deployed [Website](https://seasurvival.netlify.app/)
+    2. Enter Your Name
+    3. Use the arrow keys to move the seahorse and press space to shoot.
+    4. Survive for 4 minutes to win the game!
 
 #
 
