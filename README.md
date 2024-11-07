@@ -14,6 +14,24 @@ You can click the Preview link to take a look at your changes.
 
 --------------------------------
 
+### Open-To-USE
+
+Welcome to my Open-To-USE section! Here, you'll find a collection of projects from variety of fields, each with a public repository, Wikis, Discussion Panel, and Outputs wherever feasible. Feel free to explore around those projects, build upon them, discuss & ask queries. Make sure to see the license of every project & remember to give attribution. Visit the [repository](https://github.com/DhruvGarg001?tab=repositories) section for more!
+
+
+#
+
+#### Websites:
+- [**HimaVault**](https://dhruvgarg001.github.io/HimaVault/): A fictional website 🌐. Explore the code, collaborate, and contribute to building this project further to practice your HTML, CSS, and UI/UX skills. For more details, [click here](https://github.com/DhruvGarg001/HimaVault).
+
+--------------------------------
+
+### My Projects
+
+Welcome to my projects section! Here, you'll find a collection of my work ranging from variety of fields, each showcasing my skills in programming and creative problem-solving. For more detailed documentation and insights into these projects, feel free to explore my [GitHub Wiki](https://github.com/DhruvGarg001/DhruvGarg001/wiki).
+
+#
+
 ### My Projects
 
 Welcome to my projects section! Here, you'll find a collection of my work ranging from variety of fields, each showcasing my skills in programming and creative problem-solving. For more detailed documentation and insights into these projects, feel free to explore my [GitHub Wiki](https://github.com/DhruvGarg001/DhruvGarg001/wiki).
@@ -22,11 +40,6 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
 
 #### Web Apps:
 - [**Cricket Sphere**](https://cricketsphere.netlify.app/): A sleek and responsive web app providing real-time updates on live and recently completed cricket matches. Cricket Sphere fetches and displays scores, runs, wickets, and more using a cricket API. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Cricket-Sphere-v1.2).
-
-#
-
-#### Websites:
-- [**Argus Unbelievable**](https://argusunbelievable.netlify.app/): Fictional data center company in the Himalayas 🌐 | Showcasing UI/UX design and HTML/CSS proficiency | Created by Dhruv Garg in 2022 | All content is fictional. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Argus-Unbelievable).
 
 #
 
