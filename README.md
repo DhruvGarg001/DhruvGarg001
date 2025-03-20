@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **@DhruvGarg001**
 - 👀 I’m interested in **Artificial Intelligence and Computer Science**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & **Next.js**
 - 📫 How to reach me: **dhruvgarg2025@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: The first computer bug was an actual moth found in a Harvard Mark II computer in 1947, which caused a malfunction.
