@@ -7,10 +7,26 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: The first computer bug was an actual moth found in a Harvard Mark II computer in 1947, which caused a malfunction.
 
-<!---
-DhruvGarg001/DhruvGarg001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--------------------------------
+
+### 📢 Announcements!
+
+Something **BIG** in the world of **AI** is coming soon... stay tuned! 🤖✨
+
+#
+
+#### What's Coming?
+🚀 Cutting-edge **AI technologies** that will blow your mind 💡
+
+🚀 A **revolutionary approach** to solving your business needs 🔍
+
+🚀 And much more… but we can’t spoil the surprise yet! 😏
+
+#
+
+Keep an eye on this space for exciting updates! 🔥
+
+👀 **Get ready...** 👀
 
 --------------------------------
 
@@ -25,12 +41,6 @@ Welcome to my Open-To-USE section! Here, you'll find a collection of projects fr
 - [**HimaVault**](https://dhruvgarg001.github.io/HimaVault/): A fictional website 🌐. Explore the code, collaborate, and contribute to building this project further to practice your HTML, CSS, and UI/UX skills. For more details, [click here](https://github.com/DhruvGarg001/HimaVault).
 
 --------------------------------
-
-### My Projects
-
-Welcome to my projects section! Here, you'll find a collection of my work ranging from variety of fields, each showcasing my skills in programming and creative problem-solving. For more detailed documentation and insights into these projects, feel free to explore my [GitHub Wiki](https://github.com/DhruvGarg001/DhruvGarg001/wiki).
-
-#
 
 ### My Projects
 
