@@ -20,7 +20,7 @@ Something **BIG** in the world of **AI** is coming soon... stay tuned! 🤖✨
 
 🚀 A **revolutionary approach** to solving your business needs 🔍
 
-🚀 And much more… but we can’t spoil the surprise yet! 😏
+🚀 And much more… but I can’t spoil the surprise yet! 😏
 
 #
 
