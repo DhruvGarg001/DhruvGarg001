@@ -41,7 +41,7 @@ I’m a **student at Michigan State University** passionate about creating impac
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
-[![Wordpress](https://skillicons.dev/icons?i=wordpress)]((https://wordpress.com/))
+[![Wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com/)
 
 
 
