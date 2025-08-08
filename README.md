@@ -1,12 +1,14 @@
 ## 👋 Hi, I’m **Dhruv**
 I’m a **student at Michigan State University** passionate about creating impactful solutions with **AI**. I love turning ideas into real-world applications. Whether I’m coding in **Python**, experimenting with **Next.js**, or crafting creative visuals in **p5.js**, I’m always exploring new ways to push the limits of what’s possible.
 
+#
+
 ### 📌 Quick Facts
 - 🚀 Currently building with **Python** & **Next.js**
 - 📫 How to reach me: **dhruvgarg2025@gmail.com**
 - ⚡ Fun fact: The first computer bug was an actual moth found in a Harvard Mark II computer in 1947, which caused a malfunction.
 
-
+#
 
 ### 🛠 Tech Stack
 <!--
@@ -43,7 +45,7 @@ I’m a **student at Michigan State University** passionate about creating impac
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![Wordpress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.com/)
 
-
+#
 
 ### 📱 Connect with Me
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvGarg001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgarg001/) 
@@ -91,7 +93,6 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
           - **Space Bar:** Press to reload a new bird onto the sling.
     3. Enjoy Playing!
        
-- [**Sea Survival**](https://seasurvival.netlify.app/): A survival game where you control a seahorse battling waves of sharks and piranhas. Survive for 4 minutes using your skills and strategy. Built to showcase core programming skills with fun gameplay. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Sea-Survival-v1.2).
   - **How to Play**
     1. Open The Deployed [Website](https://seasurvival.netlify.app/)
     2. Enter Your Name
@@ -100,8 +101,5 @@ Welcome to my projects section! Here, you'll find a collection of my work rangin
 
 #
 
-#### Animations:
-
-- [**Man In Rain**](https://maninrain.netlify.app/): An animation project built with Matter.js and p5.js, featuring a man standing under an umbrella in the rain. Demonstrates physics-based motion and creative coding techniques. For more details, [click here](https://github.com/DhruvGarg001/DhruvGarg001/wiki/Animation-%E2%80%90-Man-In-The-Rain).
 
 #
