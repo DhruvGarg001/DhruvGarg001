@@ -9,8 +9,10 @@ I’m a **student at Michigan State University** passionate about creating impac
 
 
 ### 🛠 Tech Stack
+<!--
 **AI/ML:**  
 [![Ai](https://skillicons.dev/icons?i=ai)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+-->
 
 **Languages:**  
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
