@@ -1,11 +1,16 @@
-### About Me
+## 👋 Hi, I’m **Dhruv**
+I’m a **student at Michigan State University** passionate about creating impactful solutions with **AI**. I love turning ideas into real-world applications. Whether I’m coding in **Python**, experimenting with **Next.js**, or crafting creative visuals in **p5.js**, I’m always exploring new ways to push the limits of what’s possible.
 
-- 👋 Hi, I’m **@DhruvGarg001**
-- 👀 I’m interested in **Artificial Intelligence and Computer Science**
-- 🌱 I’m currently learning **Python** & **Next.js**
+### 📌 Quick Facts
+- 🚀 Currently building with **Python** & **Next.js**
 - 📫 How to reach me: **dhruvgarg2025@gmail.com**
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: The first computer bug was an actual moth found in a Harvard Mark II computer in 1947, which caused a malfunction.
+
+
+### 📱 Connect with Me
+[![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvGarg001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgarg001/) 
+
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-url) -->
 
 --------------------------------
 
