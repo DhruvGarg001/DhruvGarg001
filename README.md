@@ -47,6 +47,14 @@ I’m a **student at Michigan State University** passionate about creating impac
 
 #
 
+### 📋 My Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgarg001&layout=compact&langs_count=20&custom_title=Languages&theme=transparent#gh-light-mode-only)](https://github.com/dhruvgarg001/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgarg001&layout=compact&langs_count=20&custom_title=Languages&theme=tokyonight#gh-dark-mode-only)](https://github.com/dhruvgarg001/github-readme-stats#gh-dark-mode-only)
+
+#
+
 ### 📱 Connect with Me
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvGarg001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgarg001/) 
 
