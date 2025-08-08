@@ -7,31 +7,35 @@ I’m a **student at Michigan State University** passionate about creating impac
 - ⚡ Fun fact: The first computer bug was an actual moth found in a Harvard Mark II computer in 1947, which caused a malfunction.
 
 
+
+### 🛠 Tech Stack
+**Languages:**  
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.w3schools.com/js/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+
+**Frameworks & Libraries:**  
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![P5.js](https://skillicons.dev/icons?i=p5js)](https://p5.org/)
+[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+
+**Tools & Platforms:**  
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+
+
 ### 📱 Connect with Me
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhruvGarg001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgarg001/) 
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-url) -->
-
---------------------------------
-
-### 📢 Announcements!
-
-Something **BIG** in the world of **AI** is coming soon... stay tuned! 🤖✨
-
-#
-
-#### What's Coming?
-🚀 Cutting-edge **AI technologies** that will blow your mind 💡
-
-🚀 A **revolutionary approach** to solving your business needs 🔍
-
-🚀 And much more… but I can’t spoil the surprise yet! 😏
-
-#
-
-Keep an eye on this space for exciting updates! 🔥
-
-👀 **Get ready...** 👀
 
 --------------------------------
 
