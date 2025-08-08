@@ -9,6 +9,9 @@ I’m a **student at Michigan State University** passionate about creating impac
 
 
 ### 🛠 Tech Stack
+**AI/ML:**  
+[![Ai](https://skillicons.dev/icons?i=ai)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
 **Languages:**  
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
@@ -24,11 +27,19 @@ I’m a **student at Michigan State University** passionate about creating impac
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 **Tools & Platforms:**  
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Sublime](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Wordpress](https://skillicons.dev/icons?i=wordpress)]((https://wordpress.com/))
 
 
 
